@@ -1,0 +1,23 @@
+=====================================================
+Setup:        Simplex (Standalone)
+Site name:    AMS-95-17
+Server name:  ser-95-17
+Server role:  Application + Data
+=====================================================
+Server status ...	 Unavailable
+Environment ... 	 Unavailable
+Processes ... 		 Unavailable
+
+Checking all AMS processes:
+JBoss ... 		 Disabled
+AMS server ... 		 Disabled
+Database (localhost) ... Disabled
+Process Monitor ... 	 Disabled
+EMS services ... 	 Disabled
+
+
+Component                Version      Core    Build
+---------------------------------------------------
+ams                      9.7.03       -       414706
+
+Last started on Wed Sep  4 15:06:52 2019

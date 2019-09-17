@@ -1,0 +1,4 @@
+cd /home/ththang/shellscript
+sed -i 's/\r//' status.sh
+chmod 755 *
+./status.sh

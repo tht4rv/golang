@@ -1,0 +1,4 @@
+INSTALLSTATUS="/ams_build/AMSwsp/log/9.7.03/414706/stage/installstatus.log"
+[ -e "$INSTALLSTATUS" ] && cat $INSTALLSTATUS || echo ""
+
+

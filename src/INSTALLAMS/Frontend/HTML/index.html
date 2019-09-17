@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+     <head>
+		<link rel="stylesheet" href="../CSS/styles.css">
+		<meta charset="utf-8">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script type="text/javascript" src="../javascript/select.js"></script>
+        <script type="text/javascript" src="../javascript/status.js"></script>
+        <script type="text/javascript" src="../javascript/openfile.js"></script>
+        <script type="text/javascript" src="../javascript/install.js"></script>
+        <script type="text/javascript" src="../javascript/uninstall.js"></script>
+     </head>
+    <body style="background-color:white;left: 0px;border-spacing: 0px;">
+        <div id="container">
+            <div id="header">
+                <div class="header1">
+                    <div class="logo">
+                            <img src="../IMAGES/logo.png" alt = "logo INES/External" width="300" height="100%">
+                    </div>
+                    <div class="title">
+                        <i><B>INSTALL AMS Tool</B></i>
+                    </div>
+                </div>
+                <div class="topbar">
+                    <div>HOME</div>
+                    <div>INTRODUCTION</div>
+                    <div>ABOUT</div>
+                    <div>HELP</div>
+                    <div>MORE</div>
+                </div>
+            </div>
+            <div id="content">
+                <div class="workspace">
+                    <form id ="form-info">
+                        <input type="text" id="server"   placeholder="server">
+                        <input type="text" id="version"  placeholder="version">
+                        <input type="text" id="revision" placeholder="revision">
+                        <input type="text" id="username" placeholder="username">
+                        <input type="password" id="password" placeholder="password" >
+                        <input type="file" id="file-input" style="display: none;"  >
+                    </form>
+                    <div>
+                        <button id="browse" type="submit">  BROWSE </button>
+                        <button id="selectams" type="submit">  SELECT AMS </button>
+                        <button id="statusams" type="submit">  STATUS AMS </button>
+                        <button id="installams" type="submit">  INSTALL AMS </button>
+                        <button id="uninstallams" type="submit">  UNINSTALL AMS </button>
+                        <div id="response"></div>
+                    </div>                    
+                </div>
+            </div>
+            <div id="footer">
+                <div>
+                    Contact ththang@tma.com.vn
+                </div>
+            </div>
+        </div>        
+    </body>
+</html>

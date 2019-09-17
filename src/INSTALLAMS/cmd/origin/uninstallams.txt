@@ -1,0 +1,3 @@
+cd /ams_build/AMSwsp/scripts
+chmod 755 *
+./uninstallams.sh AMSVersion AMSRevision

@@ -1,0 +1,15 @@
+ams-AMSVersion-AMSRevision-redhat-x86_64.bin
+app-ansitl1-1.0_AMSVersion-AMSRevision.bin
+app-apc-1.0_AMSVersion-AMSRevision.bin
+app-idm-1.0_AMSVersion-AMSRevision.bin
+app-lrm-1.0_AMSVersion-AMSRevision.bin
+app-sdc-1.0_AMSVersion-AMSRevision.bin
+app-spfe-1.0_AMSVersion-AMSRevision.bin
+plugin-combo-g6-10.2-1.0_AMSVersion-AMSRevision.bin
+plugin-combo-g6-12.3-1.0_AMSVersion-AMSRevision.bin
+plugin-combo-gpon-4.9-1.0_AMSVersion-AMSRevision.bin
+plugin-combo-gpon-4.10-1.0_AMSVersion-AMSRevision.bin
+plugin-combo-isam-5.8-1.0_AMSVersion-AMSRevision.bin
+plugin-combo-isam-6.0-1.0_AMSVersion-AMSRevision.bin
+plugin-combo-isam-6.1-1.0_AMSVersion-AMSRevision.bin
+plugin-combo-isam-6.2-1.0_AMSVersion-AMSRevision.bin

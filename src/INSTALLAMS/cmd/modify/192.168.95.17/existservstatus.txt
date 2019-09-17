@@ -1,0 +1,2 @@
+directory=/ams_build/AMSwsp/serverstatus
+[ -d "$directory" ] && echo "found" || echo "notfound"

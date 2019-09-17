@@ -1,0 +1,3 @@
+cd /ams_build/AMSwsp/scripts
+chmod 755 *
+./installams.sh 9.7.03 414706

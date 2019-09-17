@@ -1,0 +1,5 @@
+cd /ams_build/AMSwsp/serverstatus
+chmod 755 *
+mkdir -p /ams_build/AMSwsp/log/AMSVersion/AMSRevision/stage
+mkdir -p /ams_build/AMSwsp/log/AMSVersion/AMSRevision/system
+./status.sh 9.7.03 414706
